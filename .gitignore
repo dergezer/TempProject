@@ -1,9 +1,4 @@
-.idea
-out
-*.iml
-
-
+/.idea/
 /target/
-*.xml
-
+*.iml
 
